@@ -1,0 +1,3 @@
+# From: https://docs.openshift.com/enterprise/3.2/using_images/s2i_images/python.html
+# This variable indicates the path to a valid Python file with a gunicorn configuration.
+APP_CONFIG=gunicorn.config.py
